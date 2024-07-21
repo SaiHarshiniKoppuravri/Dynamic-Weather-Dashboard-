@@ -1,6 +1,7 @@
 # codtech-intenship-task-2-WEATHER FORECSATING APP
 #### Name:KOPPURAVURI DEVI VENKATA SAI HARSHINI
 #### Company:CODTECH IT SOLUTIONS
+#### ID:CT4WD3345
 #### Domain:Web Development
 #### Duration:JUNE 25TH,2024 to JULY 25TH,2024
 ## Project Name
@@ -19,4 +20,4 @@
 
 ## screen shot of my project output
 
-![Screenshot (5)](https://github.com/user-attachments/assets/82b5d63c-ff41-4b5e-9533-4d30eb3bc57f)
+![Screenshot (5)](https://github.com/user-attachments/assets/bc4f1225-af9f-48af-96e7-65c1f4d093d9)
