@@ -1,9 +1,3 @@
-# codtech-intenship-task-2-WEATHER FORECSATING APP
-#### Name:KOPPURAVURI DEVI VENKATA SAI HARSHINI
-#### Company:CODTECH IT SOLUTIONS
-#### ID:CT4WD3345
-#### Domain:Web Development
-#### Duration:JUNE 25TH,2024 to JULY 25TH,2024
 ## Project Name
 ### WEATHER FORECASTING APP
 #### A simple weather application built with HTML, CSS, and JavaScript that fetches current weather data from an API and displays it to the user.
