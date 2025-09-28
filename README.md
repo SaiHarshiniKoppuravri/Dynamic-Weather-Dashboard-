@@ -1,5 +1,5 @@
 ## Project Name
-### DYNAMIC WEATHER FORECASTING 
+### DYNAMIC WEATHER DASHBOARD 
 #### A simple weather application built with HTML, CSS, and JavaScript that fetches current weather data from an API and displays it to the user.
 ## Technologies used
 * HTML: Structure of the web pages.
